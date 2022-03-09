@@ -1,7 +1,6 @@
 {
   "name": "sogekingbr/buscador_de_curso_alura",
   "description": "Projeto buscador Alura",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
