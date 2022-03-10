@@ -33,5 +33,6 @@
   },
   "scripts-descriptions": {
     "check": "Roda as verificações de código. PHAN e PHPCS"
-  }
+  },
+  "bin": ["buscar_alura.php"]
 }
